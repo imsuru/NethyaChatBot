@@ -2,7 +2,7 @@
     "name": "Logic-AI",    
     "env": {
         "BOT_TOKEN": {
-            "description": "Pyrogram String session of your account",
+            "description": "6874561245:AAGJy13Na06Lc6tBvFdwv1H0VLE-7azzFeQ",
             "required": true
         },        
         "MONGO_URL": {
