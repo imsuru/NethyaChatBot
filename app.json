@@ -6,15 +6,15 @@
             "required": true
         },        
         "MONGO_URL": {
-            "description": "mongo db url here",
+            "description": "mongodb://localhost:27017",
             "required": true
         },
         "API_ID": {
-            "description": "telegram api id here",
+            "description": "22433327",
             "required": true
         },
         "API_HASH": {
-            "description": "telegram api hash here",
+            "description": "2392a4d4399d259d3839d649e1c692ea",
             "required": true
         }
     },
